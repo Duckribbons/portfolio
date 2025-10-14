@@ -38,7 +38,7 @@ export function Hero() {
         <div className="flex justify-end pr-6 md:pr-6">
           <Avatar className="h-64 w-64 ring-2 ring-primary/40 shadow-xl shadow-primary/10">
             <AvatarImage
-              src="public/profile.jpg"
+              src="profile.jpg"
               alt="Samuel Sebastian Sujaya"
               className="object-cover"
             />
